@@ -1,0 +1,22 @@
+/*
+Notaciones importantes:
+
+1.- Recordemos que el "margin-bottom" no es muy usado en el desarrollo web ó front-end
+3.- la unidad de medida "%" hace referencia a lo que mide la pantalla en general
+2.- las unidades de procentaje ó percent "%" se usan mas que nada con el width
+3.- la unidad de medida "em" es una unidad relativa al font-size de nuestras etiquetas <---> --- </---> padre directos
+4.- los rem son relativos al font-size del "html{font-size: ---px;}" por ejemplo:
+html{
+    font-size: 16px;
+}
+p{
+    font-size: .5rem;
+}
+h1{
+    font-size: 1rem;
+}
+h2{
+    font-size: 3rem;
+} 
+nota: para el caso del p serían unos 8px, el del h1 serian unos 16px y para h2 unos 48px
+*/
